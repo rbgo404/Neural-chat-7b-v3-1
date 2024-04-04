@@ -1,5 +1,5 @@
-# Llama2-13B-Chat-GPTQ
-Llama 2 is a collection of pretrained and fine-tuned generative text models ranging in scale from 7 billion to 70 billion parameters. This is the 13B fine-tuned GPTQ quantized model, optimized for dialogue use cases.  Llama-2-Chat models outperform open-source chat models on most benchmarks tested, and in human evaluations for helpfulness and safety, are on par with some popular closed-source models like ChatGPT and PaLM.
+# Neural-chat-7b-v3-1
+Neural-chat-7b-v3-1 is a fine-tuned 7B parameter LLM on the Intel Gaudi 2 processor from the mistralai/Mistral-7B-v0.1 on the open source dataset Open-Orca/SlimOrca. The model was aligned using the Direct Performance Optimization (DPO) method with Intel/orca_dpo_pairs.
 
 ---
 ## Prerequisites
